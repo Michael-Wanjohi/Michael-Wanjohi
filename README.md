@@ -13,7 +13,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm a **Data Scientist** passionate about turning raw data into actionable insights. I specialise in **predictive modeling**, **machine learning**, and **statistical analysis** — helping organisations make smarter, data-driven decisions.
+I'm a **Data Scientist** passionate about turning raw data into actionable insights. I specialise in **predictive modeling**, **machine learning**, and **statistical analysis** , helping organisations make smarter, data-driven decisions.
 
 - 🔭 Currently working on **predicting EV adoption shifts** across California & Washington ZIP codes — analysing which ZIPs stayed resilient vs. dropped off after the federal EV tax credit expired in September 2025
 - 🌱 Deepening expertise in **deep learning** and **MLOps**
