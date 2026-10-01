@@ -2,7 +2,7 @@
 
 # Hi there, I'm Michael Wanjohi 👋
 
-### Data Scientist & Machine Learning Engineer
+### Data Analyst & Machine Learning 
 
 [![GitHub followers](https://img.shields.io/github/followers/Michael-Wanjohi?label=Follow&style=social)](https://github.com/Michael-Wanjohi)
 [![Profile Views](https://komarev.com/ghpvc/?username=Michael-Wanjohi&color=blueviolet&style=flat-square)](https://github.com/Michael-Wanjohi)
