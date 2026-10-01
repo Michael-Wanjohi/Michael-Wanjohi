@@ -55,6 +55,12 @@ I'm a **Data Scientist** passionate about turning raw data into actionable insig
 - **Key Techniques:** Feature engineering, threshold tuning, cross-validation
 - **Impact:** Identified high-risk policyholders to support targeted retention campaigns
 
+### 🏠 Real Estate Assessment in Connecticut: Unveiling Market Discrepancies
+> Analysed **43,000+ residential property sales** across 132 Connecticut municipalities to expose systematic assessment discrepancies and their impact on tax equity.
+- **Models:** Multiple Linear Regression, K-Nearest Neighbors, Regression Trees
+- **Key Techniques:** Sales ratio analysis, outlier removal, model benchmarking, property type segmentation
+- **Impact:** Revealed statewide underassessment at ~57% of market value; MLR achieved 80.5% explanatory power (R²), outperforming k-NN and regression trees
+
 ---
 
 ## 📈 GitHub Stats
