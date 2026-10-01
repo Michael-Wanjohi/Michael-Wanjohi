@@ -15,9 +15,9 @@
 
 I'm a **Data Scientist** passionate about turning raw data into actionable insights. I specialise in **predictive modeling**, **machine learning**, and **statistical analysis** — helping organisations make smarter, data-driven decisions.
 
-- 🔭 Currently working on **insurance churn prediction** using advanced ML techniques
+- 🔭 Currently working on **predicting EV adoption shifts** across California & Washington ZIP codes — analysing which ZIPs stayed resilient vs. dropped off after the federal EV tax credit expired in September 2025
 - 🌱 Deepening expertise in **deep learning** and **MLOps**
-- 💡 Interested in **healthcare analytics**, **financial modeling**, and **NLP**
+- - 💡 Interested in **healthcare analytics**, **financial modeling**, and **NLP**
 - 📫 Reach me at: **kanjohi@gmail.com**
 
 ---
